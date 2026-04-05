@@ -2,8 +2,10 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # Har roz raat ko update hota rahe
-  workflow_dispatch:         # Manually trigger karne ke liye
+    - cron: "0 0 * * *"      # Har roz raat ko update
+  workflow_dispatch:         # Manual run ke liye
+  push:
+    branches: [ main ]       # ← Yeh temporary line add ki hai taaki workflow activate ho
 
 jobs:
   generate:
