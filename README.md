@@ -8,12 +8,12 @@
 />
 
   <br><br>
- <div align="center">
+<div align="center">
   <h2>🌟 My GitHub Contributions</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/00FF88/ankitkr52">
     <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/00FF88/ankitkr52">
-    <img src="https://ghchart.rshah.org/00FF88/ankitkr52" alt="GitHub Contributions" width="85%" style="max-width: 920px;">
+    <img src="https://ghchart.rshah.org/161b22/00FF88/ankitkr52" width="85%" style="max-width: 920px; background-color: #0d1117; border-radius: 8px; padding: 10px;">
   </picture>
   <p><strong>All-time contributions</strong> with green activity dots</p>
 </div>
