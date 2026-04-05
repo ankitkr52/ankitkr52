@@ -1,44 +1,24 @@
 <div align="center">
   <h1>Hi there 👋, I'm Ankit Kumar</h1>
   
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=1800&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%2B+Next.js+Expert;GSAP+%2B+Lenis+Animation+Pro;Building+Buttery-Smooth+Experiences;AI%2FML+Enthusiast" alt="Typing Animation" />
+  <!-- Typing Animation - 4 lines only + bold font -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Always+Learning!" alt="Typing Animation" />
 
   <br><br>
+</div>
 
-  <!-- Social Links -->
+<br>
+
+<!-- Improved Strong Tagline -->
+<div align="center">
+  <h2><span style="background:#FF0000;color:white;padding:4px 12px;border-radius:4px;">FROM CONCEPT TO CREATION - LET'S MAKE IT HAPPEN!</span></h2>
   <p>
-    <a href="mailto:ankit72p@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://linkedin.com/in/ankit-kumar-2b3381355"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/ankitkr52"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"></a>
+    I thrive on crafting <strong>dynamic, high-performance web applications</strong> that deliver <strong>seamless and engaging user experiences</strong>.<br>
+    From pixel-perfect animations to scalable full-stack solutions — I turn complex problems into elegant, production-ready digital products.
   </p>
 </div>
 
 <br>
-
-<!-- Snake Animation -->
-<div align="center">
-  <h2>🐍 My Contribution Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitkr52/ankitkr52/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitkr52/ankitkr52/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ankitkr52/ankitkr52/output/github-contribution-grid-snake.svg" width="90%" style="max-width: 900px;">
-  </picture>
-</div>
-
-<br>
-
-## 💫 About Me
-
-I’m **Ankit Kumar** — a results-driven **Full-Stack Developer** who specializes in building **high-performance, visually stunning web applications** that users love and businesses rely on.
-
-With deep expertise in **React, Next.js, GSAP, Lenis & TypeScript**, I transform ordinary ideas into **buttery-smooth, pixel-perfect experiences**. Whether it’s a complex full-stack platform with payment integration or an AI-powered tool, I deliver clean, scalable code with exceptional attention to performance and user experience.
-
-I’ve successfully delivered projects for clients on tight deadlines while maintaining high quality and clean architecture. Passionate about modern web technologies and always eager to solve real-world problems through elegant solutions.
-
-**Open to full-time opportunities and exciting freelance collaborations.**
-
----
 
 ## 💻 Tech Stack
 
@@ -57,24 +37,6 @@ I’ve successfully delivered projects for clients on tight deadlines while main
 
 <br>
 
-## 🚀 Featured Projects
-
-**LuxeBook – Hotel Booking Platform**  
-Full-stack hotel booking platform with secure authentication, Stripe payments, admin dashboard & automated emails.  
-**[GitHub Repo]** *(link daal dena)*
-
-**AI Resume Builder**  
-AI-powered resume builder with live preview, Google Gemini integration, CRUD functionality & image processing.  
-**[GitHub Repo]** *(link daal dena)*
-
-## 💼 Experience
-
-**Freelance Frontend Developer**  
-2024  
-• Built a fully responsive healthcare clinic landing page using **React.js + Tailwind CSS**  
-• Delivered the complete project in just **3 days** with 100% client satisfaction  
-• Focused on clean, modern UI and excellent user experience
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -87,11 +49,29 @@ AI-powered resume builder with live preview, Google Gemini integration, CRUD fun
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=ankitkr52&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitkr52&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+<br>
+
+<!-- Connect Section (exactly like your reference) -->
+<div align="center">
+  <h2>📫 Let's Connect & Collaborate!</h2>
+  
+  <p>
+    <a href="https://github.com/ankitkr52"><img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+    <a href="mailto:ankit72p@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://linkedin.com/in/ankit-kumar-2b3381355"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://instagram.com/r_o_h_a_n__52"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  </p>
+
+  <p>
+    <strong>⭐ Don't forget to star my repositories if you find them useful!</strong>
+  </p>
 </div>
 
 <br>
 
 <div align="center">
-  Made with ❤️ and lots of ☕
+  Made with ❤️ and lots of ☕ by Ankit Kumar
 </div>
