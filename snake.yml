@@ -2,16 +2,18 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Har roz raat ko update
-  workflow_dispatch:      # Manually trigger kar sakte ho
+    - cron: "0 0 * * *"      # Har roz raat ko update hota rahe
+  workflow_dispatch:         # Manually trigger karne ke liye
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
         id: snake
         with:
           github_user_name: ankitkr52
@@ -19,7 +21,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
