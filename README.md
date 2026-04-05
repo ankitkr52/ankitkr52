@@ -1,20 +1,32 @@
-<div align="center">
+<div align="start">
   <h1>Hi there 👋, I'm Ankit Kumar</h1>
   
-  <!-- Typing Animation - 4 lines only + bold font -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Always+Learning!" alt="Typing Animation" />
+  <!-- Premium Typing Animation (4 lines + bold + alternating red/blue feel) -->
+<img 
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=2100&pause=1000&color=c82cc3&center=true&vCenter=true&width=740&lines=Full-Stack+Developer!;Software+Engineer!;Problem+Solver!;Always+Learning!" 
+  alt="Typing Animation" 
+/>
 
   <br><br>
+ <div align="center">
+  <h2>🌟 My GitHub Contributions</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/00FF88/ankitkr52">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/00FF88/ankitkr52">
+    <img src="https://ghchart.rshah.org/00FF88/ankitkr52" alt="GitHub Contributions" width="85%" style="max-width: 920px;">
+  </picture>
+  <p><strong>All-time contributions</strong> with green activity dots</p>
+</div>
 </div>
 
 <br>
 
-<!-- Improved Strong Tagline -->
+<!-- Powerful Tagline -->
 <div align="center">
-  <h2><span style="background:#FF0000;color:white;padding:4px 12px;border-radius:4px;">FROM CONCEPT TO CREATION - LET'S MAKE IT HAPPEN!</span></h2>
-  <p>
-    I thrive on crafting <strong>dynamic, high-performance web applications</strong> that deliver <strong>seamless and engaging user experiences</strong>.<br>
-    From pixel-perfect animations to scalable full-stack solutions — I turn complex problems into elegant, production-ready digital products.
+  <h2><span style="background:#FF0000;color:white;padding:6px 16px;border-radius:6px;">FROM CONCEPT TO CREATION - LET'S MAKE IT HAPPEN!</span></h2>
+  <p style="max-width: 720px; margin: 0 auto; font-size: 1.45em; line-height: 1.4;">
+    I craft <strong>high-performance, pixel-perfect web applications</strong> that deliver seamless user experiences.<br>
+    Turning complex ideas into scalable, production-ready digital products — fast and flawlessly.
   </p>
 </div>
 
@@ -47,14 +59,20 @@
 
 <br>
 
-## 🏆 GitHub Trophies
+<!-- 🐍 Snake Animation - Added exactly below GitHub Stats -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitkr52&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <h2>🐍 My Contribution Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitkr52/ankitkr52/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitkr52/ankitkr52/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ankitkr52/ankitkr52/output/github-contribution-grid-snake.svg" width="90%" style="max-width: 920px;">
+  </picture>
 </div>
 
 <br>
+<br>
 
-<!-- Connect Section (exactly like your reference) -->
+<!-- Connect & Collaborate Section (Premium look) -->
 <div align="center">
   <h2>📫 Let's Connect & Collaborate!</h2>
   
