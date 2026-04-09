@@ -45,10 +45,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkr52&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats">
+<div align="start">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkr52&theme=dark&hide_border=true&background=0D1117&stroke=c82cc3&ring=c82cc3&fire=FF6B6B&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748B" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr52&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+ 
 </div>
 
 ---
