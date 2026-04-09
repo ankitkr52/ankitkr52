@@ -1,6 +1,6 @@
 <div align="start">
   <h1>
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi"> 
+    <img src="https://raw.githubusercontent.com/ankitkr52/ankitkr52/main/GithubChart.png" width="30" alt="Hi"> 
     Hi there, I'm Ankit Kumar!
   </h1>
 
