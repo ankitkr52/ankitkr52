@@ -18,9 +18,14 @@
 </div>
 
 <div align="center">
-  <!-- Real GitHub Contribution Graph (Green Dots) -->
+  <!-- Simple Classic GitHub Contributions (Green Dots Calendar) -->
   <h2>🌟 My GitHub Contributions</h2>
-  <img src="https://ghchart.rshah.org/c82cc3/ankitkr52" alt="GitHub Contributions" width="88%" style="border-radius: 12px;">
+  <img 
+    src="https://ghchart.rshah.org/c82cc3/ankitkr52" 
+    alt="GitHub Contributions" 
+    width="88%" 
+    style="border-radius: 12px;"
+  />
   <p><strong>All-time contributions</strong> with activity dots</p>
 </div>
 
@@ -45,10 +50,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="start">
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkr52&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkr52&theme=dark&hide_border=true&background=0D1117&stroke=c82cc3&ring=c82cc3&fire=FF6B6B&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748B" alt="GitHub Streak">
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr52&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 ---
@@ -68,18 +73,10 @@
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
-  <a href="https://github.com/ankitkr52">
-    <img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:ankit72p@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/ankit-kumar-2b3381355">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/r_o_h_a_n__52">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  <a href="https://github.com/ankitkr52"><img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:ankit72p@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/ankit-kumar-2b3381355"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/r_o_h_a_n__52"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
 ---
