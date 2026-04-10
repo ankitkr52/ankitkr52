@@ -1,4 +1,4 @@
-<div align="start">
+<div align="center">
   <h1>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi"> 
     Hi there, I'm Ankit Kumar!
@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <!-- Simple Classic GitHub Contributions (Green Dots Calendar) -->
+  <!-- Realtime Classic GitHub Contributions (Green Dots Calendar) -->
   <h2>🌟 My GitHub Contributions</h2>
   <img 
     src="https://ghchart.rshah.org/c82cc3/ankitkr52" 
@@ -26,7 +26,7 @@
     width="88%" 
     style="border-radius: 12px;"
   />
-  <p><strong>All-time contributions</strong> with activity dots</p>
+  <p><strong>All-time contributions</strong> • Updates in realtime as I contribute</p>
 </div>
 
 <br>
