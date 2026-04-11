@@ -6,12 +6,12 @@
 
   <!-- Typing Animation -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=2100&pause=1000&color=c82cc3&center=true&vCenter=true&width=740&lines=Full-Stack+Developer!;Software+Engineer!;Problem+Solver!;Always+Learning!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=2100&pause=1000&color=27e349&center=true&vCenter=true&width=740&lines=Full-Stack+Developer!;Software+Engineer!;Problem+Solver!;Always+Learning!" alt="Typing Animation" />
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ankitkr52&label=Profile%20Views&color=c82cc3&style=for-the-badge&base=100" alt="Profile Views"/>
-    <img src="https://img.shields.io/badge/Open%20to%20Work%20%26%20Freelance-c82cc3?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work"/>
+  <p  align="center">
+    <img src="https://komarev.com/ghpvc/?username=ankitkr52&label=Profile%20Views&color=27e349&style=for-the-badge&base=100" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/Open%20to%20Work%20%26%20Freelance-db162d?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work"/>
   </p>
 
   <br>
@@ -50,15 +50,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkr52&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkr52&theme=dark&hide_border=true&background=0D1117&stroke=c82cc3&ring=c82cc3&fire=FF6B6B&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748B" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr52&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-</div>
 
+
+<div align="center">
+ 
+  
+  <!-- Updated Reliable Streak -->
+  <img src="https://streak-stats.demolab.com/?user=ankitkr52&theme=dark&hide_border=true&background=0D1117&stroke=c82cc3&ring=c82cc3&fire=FF6B6B&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748B" alt="GitHub Streak" />
+
+ 
+</div>
 ---
 
-## 🐍 My Contribution Snake
+## 🐊 My Contribution Snake
 
 <div align="center">
   <picture>
