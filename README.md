@@ -17,12 +17,12 @@
 </div>
 
 <div align="center">
-  <!-- ✅ Fixed Green Dots Contribution Section -->
+  <!-- Realtime Classic GitHub Contributions (Green Dots Calendar) -->
   <h2>🌟 My GitHub Contributions</h2>
-  <img 
-    src="https://ghchart.rshah.org/39D353/ankitkr52" 
-    alt="GitHub Contributions" 
-    width="88%" 
+  <img
+    src="https://ghchart.rshah.org/c82cc3/ankitkr52"
+    alt="GitHub Contributions"
+    width="88%"
     style="border-radius: 12px;"
   />
   <p><strong>All-time contributions</strong> • Updates in realtime as I contribute</p>
