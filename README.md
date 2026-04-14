@@ -1,6 +1,6 @@
 <div align="start">
   <h1>
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi"> 
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi">
     Hi there, I'm Ankit Sharma!
   </h1>
 
@@ -9,19 +9,18 @@
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=2100&pause=1000&color=27e349&center=true&vCenter=true&width=740&lines=Full-Stack+Developer!;Software+Engineer!;Problem+Solver!;Always+Learning!" alt="Typing Animation" />
   </p>
 
-  <p  align="center">
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ankitkr52&label=Profile%20Views&color=27e349&style=for-the-badge&base=100" alt="Profile Views"/>
     <img src="https://img.shields.io/badge/Open%20to%20Work%20%26%20Freelance-db162d?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work"/>
   </p>
-
   <br>
 </div>
 
 <div align="center">
-  <!-- Realtime Classic GitHub Contributions (Green Dots Calendar) -->
+  <!-- ✅ Fixed Green Dots Contribution Section -->
   <h2>🌟 My GitHub Contributions</h2>
   <img 
-    src="https://ghchart.rshah.org/c82cc3/ankitkr52" 
+    src="https://ghchart.rshah.org/39D353/ankitkr52" 
     alt="GitHub Contributions" 
     width="88%" 
     style="border-radius: 12px;"
@@ -32,7 +31,6 @@
 <br>
 
 ## 💻 Tech Stack
-
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -49,21 +47,13 @@
 ---
 
 ## 📊 GitHub Stats
-
-
-
 <div align="center">
- 
-  
-  <!-- Updated Reliable Streak -->
   <img src="https://streak-stats.demolab.com/?user=ankitkr52&theme=dark&hide_border=true&background=0D1117&stroke=c82cc3&ring=c82cc3&fire=FF6B6B&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748B" alt="GitHub Streak" />
-
- 
 </div>
+
 ---
 
 ## 🐊 My Contribution Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitkr52/ankitkr52/output/github-contribution-grid-snake-dark.svg">
@@ -75,7 +65,6 @@
 ---
 
 ## 📫 Let's Connect & Collaborate!
-
 <div align="center">
   <a href="https://github.com/ankitkr52"><img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:ankit72p@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
