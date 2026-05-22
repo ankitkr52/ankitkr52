@@ -1,0 +1,41 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@v2
+        with:
+          username: ankitkr52
+          background: "0D1117"
+          border: "c82cc3"
+          stroke: "c82cc3"
+          ring: "c82cc3"
+          fire: "FF6B6B"
+          currStreakLabel: "ffffff"
+          currStreakNum: "ffffff"
+          sideNums: "ffffff"
+          sideLabels: "ffffff"
+          dates: "64748B"
+          hide_border: "true"
+          output_path: streak-stats.svg
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add streak-stats.svg
+          git diff --cached --quiet || git commit -m "Update streak stats"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
