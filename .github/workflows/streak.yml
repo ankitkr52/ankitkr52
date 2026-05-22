@@ -9,26 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@master
-        with:
-          username: ankitkr52
-          background: "0D1117"
-          border: "c82cc3"
-          stroke: "c82cc3"
-          ring: "c82cc3"
-          fire: "FF6B6B"
-          currStreakLabel: "ffffff"
-          currStreakNum: "ffffff"
-          sideNums: "ffffff"
-          sideLabels: "ffffff"
-          dates: "64748B"
-          hide_border: "true"
-          output_path: streak-stats.svg
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Fetch Streak SVG
+        run: |
+          curl -o streak-stats.svg "https://github-readme-streak-stats.herokuapp.com/?user=ankitkr52&theme=dark&hide_border=true&background=0D1117&stroke=c82cc3&ring=c82cc3&fire=FF6B6B&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748B"
 
       - name: Commit SVG
         run: |
