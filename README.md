@@ -46,9 +46,20 @@
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ankitkr52&theme=dark&hide_border=true&background=0D1117&stroke=c82cc3&ring=c82cc3&fire=FF6B6B&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748B" alt="GitHub Streak" />
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkr52&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=c82cc3&icon_color=c82cc3&text_color=ffffff&ring_color=c82cc3" alt="GitHub Stats" width="49%" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr52&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=c82cc3&text_color=ffffff" alt="Top Languages" width="49%" />
+
+  <br><br>
+
+  <!-- GitHub Streak Stats — Working Alternative (nirzak-maintained) -->
+  <img src="https://nirzak-streak-stats.vercel.app?user=ankitkr52&theme=dark&hide_border=true&background=0D1117&stroke=c82cc3&ring=c82cc3&fire=FF6B6B&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=64748B" alt="GitHub Streak" />
+
 </div>
 
 ---
