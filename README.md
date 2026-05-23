@@ -49,11 +49,9 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkr52&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=c82cc3&icon_color=c82cc3&text_color=ffffff&ring_color=c82cc3" alt="GitHub Stats" width="49%" />
+ 
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkr52&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=c82cc3&text_color=ffffff" alt="Top Languages" width="49%" />
 
   <br><br>
 
