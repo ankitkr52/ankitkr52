@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
   <h1>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi">
     Hi there, I'm Ankit sharma!
