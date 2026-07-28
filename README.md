@@ -4,7 +4,7 @@
     Hi there, I'm Ankit sharma!
   </h1>
 
-  <!-- Typing Animation -->
+  
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=28&duration=2100&pause=1000&color=27e349&center=true&vCenter=true&width=740&lines=Full-Stack+Developer!;Software+Engineer!;Problem+Solver!;Quick+Learner!" alt="Typing Animation" />
   </p>
