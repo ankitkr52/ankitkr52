@@ -25,7 +25,7 @@
     width="88%"
     style="border-radius: 12px;"
   />
-  <p><strong>All-time contributions</strong> • Updates in realtime as I contribute!</p>
+  <p><strong>All-time contributions</strong> • Updates in realtime as I contribute!!!</p>
 </div>
 
 <br>
