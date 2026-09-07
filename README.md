@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi">
-    Hi there, I'm Ankit sharma!
+    Hi there, I'm Ankit sharma!!!
   </h1>
 
   
@@ -18,7 +18,7 @@
 
 <div align="center">
   <!-- Realtime Classic GitHub Contributions (Green Dots Calendar) -->
-  <h2>🌟 My GitHub Contributions!!</h2>
+  <h2>🌟 My GitHub Contributions!</h2>
   <img
     src="https://ghchart.rshah.org/c82cc3/ankitkr52"
     alt="GitHub Contributions"
