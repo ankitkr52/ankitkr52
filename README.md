@@ -10,7 +10,7 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ankitkr52&label=Profile%20Views&color=27e349&style=for-the-badge&base=100" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=ankitkr52&label=Profile%20Views&color=FF2400&style=for-the-badge&base=100" alt="Profile Views"/>
     <img src="https://img.shields.io/badge/Open%20to%20Work%20%26%20Freelance-db162d?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work"/>
   </p>
   <br>
