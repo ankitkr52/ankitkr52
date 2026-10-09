@@ -20,7 +20,7 @@
   <!-- Realtime Classic GitHub Contributions (Green Dots Calendar) -->
   <h2>🌟 My GitHub Contributions!</h2>
   <img
-    src="https://ghchart.rshah.org/c82cc3/ankitkr52"
+    src="https://ghchart.rshah.org/DC143C/ankitkr52"
     alt="GitHub Contributions"
     width="88%"
     style="border-radius: 12px;"
